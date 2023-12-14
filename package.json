@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/myepes82/node-gateway/issues"
   },
-  "homepage": "https://github.com/myepes82/node-gateway#readme"
+  "homepage": "https://github.com/myepes82/node-gateway#readme",
+  "dependencies": {
+    "sc_logger": "^1.0.0"
+  }
 }

@@ -1,0 +1,48 @@
+# Archivos y carpetas generados durante el desarrollo
+node_modules/
+dist/
+src/
+
+*.log
+*.tsbuildinfo
+
+index.ts
+tsconfig.json
+.eslintrc.json
+README.md
+
+# Archivos específicos del entorno de desarrollo
+.ts/
+.vscode/
+.editorconfig
+.eslintignore
+.eslintcache
+*.config.js
+
+index.ts
+
+# Archivos de prueba
+__tests__/
+test/
+tests/
+*.test.ts
+*.spec.ts
+
+# Configuración del sistema y archivos ocultos
+.DS_Store
+Thumbs.db
+*.sublime*
+*.idea*
+*.suo
+*.user
+*.bak
+*.tmp
+*.swp
+
+# Archivos de configuración
+.npmignore
+.npmrc
+.git
+.gitignore
+.travis.yml
+appveyor.yml
